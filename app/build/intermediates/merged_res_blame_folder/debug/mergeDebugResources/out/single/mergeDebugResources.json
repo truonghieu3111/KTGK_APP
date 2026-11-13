@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_input.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_check.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_filter.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_progress_card.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_progress_card.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_btn_add.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_btn_add.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_chevron.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_chevron.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_choice_primary.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_choice_primary.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/layout_activity_task_form.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/layout/activity_task_form.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_list.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_list.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_radio_row.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_radio_row.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/layout_dialog_delete.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/layout/dialog_delete.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_dialog.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_dialog.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/layout_item_task.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/color_nav_item.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/color/nav_item.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_delete.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_gray_chip.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_gray_chip.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_search.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_tab_selected.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_tab_selected.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_choice.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_choice.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_input_error.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_input_error.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_card.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_chip_high.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_chip_high.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/layout_fragment_stats.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_back.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/layout_dialog_filter.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/layout/dialog_filter.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/menu_bottom_nav.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_icon_red.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_icon_red.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_chart.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_chart.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_info.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_info.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_chip_low.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_chip_low.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_choice_low.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_choice_low.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_choice_med.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_choice_med.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/layout_fragment_task_list.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/layout/fragment_task_list.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_choice_high.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_choice_high.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_add.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_bg_chip_med.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/bg_chip_med.xml"
+    },
+    {
+        "merged": "com.example.taskmanager.app-debug-40:/drawable_ic_more.xml.flat",
+        "source": "com.example.taskmanager.app-main-42:/drawable/ic_more.xml"
+    }
+]

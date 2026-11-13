@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.taskmanager.app-mergeDebugResources-38:/values-h320dp-v13/values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\9.6.0\\transforms\\12d7a0f9985b44807e45acb8594ba06b\\transformed\\material-1.14.0\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
